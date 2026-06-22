@@ -48,4 +48,4 @@ Sales Department
 Highest attrition occurs in the 26–35 age group.
 Employees earning up to 5K salary show the highest attrition.
 Laboratory Technicians and Sales Executives experience the most employee turnover.
-Majority of attrition comes from employees with Life Sciences educational backgrounds.# HR-ANALYTICS_DASHBOARD
+Majority of attrition comes from employees with Life Sciences educational backgrounds.
